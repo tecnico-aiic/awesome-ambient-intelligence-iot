@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [Books](#books)
     * [Journals](#journals)
     * [Conferences](#conferences-and-workshops)
+* [Technologies](#technologies)
 * [Hardware](#hardware)
 * [Software](#software)
 * [Contact Info](#contact-info)
@@ -35,12 +36,26 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Conferences and Workshops
 
-* [International Conference on the Internet of Things](https://iot-conference.org/)
+*When available, we present the conference [CORE ranking](http://portal.core.edu.au/conf-ranks/) - CORE A\*, A, B, C*
+
+* [International Conference on the Internet of Things (IoT)](https://iot-conference.org/)
     * [2022 - Delft, NL](https://iot-conference.org/iot2022/)
+* [ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp)](https://ubicomp.org/)
+    * [2021 - Virtual, Global](https://ubicomp.org/ubicomp2021/)
+* [ACM Conference on Embedded Networked Sensor Systems (SenSys)](https://sensys.acm.org/) - CORE A*
+    * [2021 - Coimbra, PT](https://sensys.acm.org/2021/)
+* [Annual International Conference On Mobile Computing And Networking (MobiCom)](https://www.sigmobile.org/mobicom/) - CORE A*
+    * [2022 - Sydney, AU](https://www.sigmobile.org/mobicom/2022/)
+* Mobiquitous - CORE B
 
-*Conference rankings*
+## Technologies
 
-* [CORE](http://portal.core.edu.au/conf-ranks/) - A*, A, B, C
+* Wi-Fi
+* Bluetooth
+* ZigBee
+* Cellular
+* LoRA
+* Amazon Sidewalk
 
 ## Hardware
 
