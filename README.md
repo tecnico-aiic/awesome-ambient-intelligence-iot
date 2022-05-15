@@ -38,15 +38,31 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 *When available, we present the conference [CORE ranking](http://portal.core.edu.au/conf-ranks/) - CORE A\*, A, B, C*
 
-* [International Conference on the Internet of Things (IoT)](https://iot-conference.org/)
+* [IoT - International Conference on the Internet of Things](https://iot-conference.org/)
     * [2022 - Delft, NL](https://iot-conference.org/iot2022/)
-* [ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp)](https://ubicomp.org/)
+* [UbiComp - ACM International Joint Conference on Pervasive and Ubiquitous Computing)](https://ubicomp.org/) - CORE journal published
     * [2021 - Virtual, Global](https://ubicomp.org/ubicomp2021/)
-* [ACM Conference on Embedded Networked Sensor Systems (SenSys)](https://sensys.acm.org/) - CORE A*
+* [SenSys - ACM Conference on Embedded Networked Sensor Systems](https://sensys.acm.org/) - CORE A*
     * [2021 - Coimbra, PT](https://sensys.acm.org/2021/)
-* [Annual International Conference On Mobile Computing And Networking (MobiCom)](https://www.sigmobile.org/mobicom/) - CORE A*
+* [PerCom - IEEE International Conference on Pervasive Computing and Communications](https://www.percom.org/) - CORE A*
+    * [2022 - Pisa, IT](https://www.percom.org/)
+* [MobiCom - ACM International Conference On Mobile Computing And Networking](https://www.sigmobile.org/mobicom/) - CORE A*
     * [2022 - Sydney, AU](https://www.sigmobile.org/mobicom/2022/)
-* Mobiquitous - CORE B
+* [Mobiquitous - EAI International Conference on Mobile and Ubiquitous Systems: Networks and Services](https://mobiquitous.eai-conferences.org/) - CORE B
+    * [2021 - Beppu, JP](https://mobiquitous.eai-conferences.org/2021/)
+* [UIC - IEEE International Conference on Ubiquitous Intelligence and Computing](http://ieeesmartworld.org/uic/) - CORE B
+    * [2021  Atlanta, GA, USA](http://ieeesmartworld.org/uic/)
+* [MUM - International Conference on Mobile and Ubiquitous Media](https://www.mum-conf.org/) - CORE B
+    * [2022 - Lisbon, PT](https://www.mum-conf.org/2022/)
+    * [2021 - Leuven, BE](https://www.mum-conf.org/2021/)
+* [SMC - IEEE Conference on Systems, Man, and Cybernetics](https://www.ieeesmc.org/) - CORE B
+    * [2022 - Prague, CZ](https://ieeesmc2022.org/)
+    * [2021 - Melbourne, AU](http://ieeesmc2021.org/)
+* [EUC - IEEE/IFIP International Conference on Embedded and Ubiquitous Computing](https://ieeexplore.ieee.org/xpl/conhome/1002596/all-proceedings) - CORE C
+    * [2021 - Shenyang, CN](https://ieeexplore.ieee.org/xpl/conhome/9741746/proceeding)
+* [UBICOMM - International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies](https://www.iaria.org/conferences/UBICOMM.html) - CORE C
+    * [2022 - Valencia, ES](https://www.iaria.org/conferences2022/UBICOMM22.html)
+    * [2021 - Barcelona, ES](https://www.iaria.org/conferences2021/UBICOMM21.html)
 
 ## Technologies
 
