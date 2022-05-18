@@ -40,6 +40,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [IoT - International Conference on the Internet of Things](https://iot-conference.org/)
     * [2022 - Delft, NL](https://iot-conference.org/iot2022/)
+* [WF-IoT - IEEE World Forum on the Internet of Things](https://ieeexplore.ieee.org/xpl/conhome/1803621/all-proceedings)
+    * [2022 - Yokohama, JP](https://wfiot2022.iot.ieee.org/)
 * [UbiComp - ACM International Joint Conference on Pervasive and Ubiquitous Computing)](https://ubicomp.org/) - CORE journal published
     * [2021 - Virtual, Global](https://ubicomp.org/ubicomp2021/)
 * [SenSys - ACM Conference on Embedded Networked Sensor Systems](https://sensys.acm.org/) - CORE A*
