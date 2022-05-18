@@ -33,6 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### Journals
 
 * [IEEE Internet of Things Journal](https://ieee-iotj.org/)
+* [ACM Transactions on Sensor Networks](https://dl.acm.org/journal/tosn)
 
 ### Conferences and Workshops
 
