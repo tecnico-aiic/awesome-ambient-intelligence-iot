@@ -39,6 +39,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 *When available, we present the conference [CORE ranking](http://portal.core.edu.au/conf-ranks/) - CORE A\*, A, B, C*
 
+* [IFIP IOT - IFIP INTERNATIONAL INTERNET OF THINGS (IOT) CONFERENCE](http://ifip-iotconference.org/)
+    * [2022 - Amsterdam, NL](http://www.ifip-iotconference.org/archive-2022/index.html)
 * [IoT - International Conference on the Internet of Things](https://iot-conference.org/)
     * [2022 - Delft, NL](https://iot-conference.org/iot2022/)
 * [WF-IoT - IEEE World Forum on the Internet of Things](https://ieeexplore.ieee.org/xpl/conhome/1803621/all-proceedings)
