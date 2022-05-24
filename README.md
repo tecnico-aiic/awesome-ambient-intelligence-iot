@@ -32,6 +32,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Journals
 
+*When available, we present the journal [Scimago ranking](https://www.scimagojr.com/) - Q1, Q2, Q3, Q4 (quartiles)*
+
 * [IEEE Internet of Things Journal](https://ieee-iotj.org/)
 * [ACM Transactions on Sensor Networks](https://dl.acm.org/journal/tosn)
 
