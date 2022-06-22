@@ -89,6 +89,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [Grove Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/) - provide Digital/Analog/I2C/PWM/UART port
 * [ESP32](https://www.espressif.com/en/products/socs/esp32)
     * [M5Stack](https://m5stack.com/)
+* [ESP8266](https://www.espressif.com/en/products/socs/esp8266)
+
 
 ## Software
 
