@@ -105,6 +105,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [libcoap](https://libcoap.net/) - C-Implementation of CoAP
     * [Californium](https://www.eclipse.org/californium/) - CoAP in Java
 
+* Arduino
+    * [MegunoLink](https://www.megunolink.com/introduction/arduino-user-interface/) - Build interfaces for Arduino Sketches
+    * [Johnny-Five](http://johnny-five.io/) - JavaScript Robotics & IoT Platform for Arduino boards
+
+* [Home Assistant](https://www.home-assistant.io/)
+    * [Nabu Casa](https://www.nabucasa.com/) - Home Assistant Cloud
+
 ----
 
 ## Contact Info
