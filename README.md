@@ -85,12 +85,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 *Hardware for the development of Ambient Intelligence solutions.*
 
 * [Arduino](https://www.arduino.cc/)
-* [Raspberry Pi](https://www.raspberrypi.org/)
-    * [Grove Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/) - provide Digital/Analog/I2C/PWM/UART port
 * [ESP32](https://www.espressif.com/en/products/socs/esp32)
     * [M5Stack](https://m5stack.com/)
 * [ESP8266](https://www.espressif.com/en/products/socs/esp8266)
-
+* [Raspberry Pi](https://www.raspberrypi.org/)
+    * [Grove Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/) - provide Digital/Analog/I2C/PWM/UART port
 
 ## Software
 
@@ -102,19 +101,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 </p>
 <br/-->
 
-* Arduino
+* Arduino libraries
     * [MegunoLink](https://www.megunolink.com/introduction/arduino-user-interface/) - Build interfaces for Arduino Sketches
     * [Johnny-Five](http://johnny-five.io/) - JavaScript Robotics & IoT Platform for Arduino boards
-* Raspberry Pi
-* [Home Assistant](https://www.home-assistant.io/)
-    * [Nabu Casa](https://www.nabucasa.com/) - Home Assistant Cloud
-* [Android](https://www.android.com/)
-* [Flutter](https://flutter.dev/) - used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase
-* MQTT
-    * [Eclipse Mosquitto](https://mosquitto.org/) - An open source MQTT broker
+* [Android](https://www.android.com/) tools and libraries
+    * [Android Studio](https://developer.android.com/studio/intro)
+* C language libraries
 * CoAP
     * [libcoap](https://libcoap.net/) - C-Implementation of CoAP
     * [Californium](https://www.eclipse.org/californium/) - CoAP in Java
+* [Flutter](https://flutter.dev/) - used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase
+* [Home Assistant](https://www.home-assistant.io/)
+    * [Nabu Casa](https://www.nabucasa.com/) - Home Assistant Cloud
+* Java libraries
+* MQTT
+    * [Eclipse Mosquitto](https://mosquitto.org/) - An open source MQTT broker
+* Python
+    * [Plotly](https://plotly.com/graphing-libraries/) - Plotly Open Source Graphing Libraries - Interactive charts and maps for Python, R, Julia, Javascript, ggplot2, F#, MATLAB, and Dash.
+* Raspberry Pi libraries
 
 ----
 
@@ -125,4 +129,3 @@ Feel free to [contact us](mailto:meic-ami@disciplinas.tecnico.ulisboa.pt) to dis
 ## License
 
 Copyright 2022 AmI faculty (Miguel L. Pardal, Alberto Cunha)
-    
