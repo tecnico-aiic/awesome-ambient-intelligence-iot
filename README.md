@@ -86,6 +86,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Arduino](https://www.arduino.cc/)
 * [Raspberry Pi](https://www.raspberrypi.org/)
+    * [Grove Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/) - provide Digital/Analog/I2C/PWM/UART port
 * [ESP32](https://www.espressif.com/en/products/socs/esp32)
     * [M5Stack](https://m5stack.com/)
 
@@ -99,18 +100,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 </p>
 <br/-->
 
+* Arduino
+    * [MegunoLink](https://www.megunolink.com/introduction/arduino-user-interface/) - Build interfaces for Arduino Sketches
+    * [Johnny-Five](http://johnny-five.io/) - JavaScript Robotics & IoT Platform for Arduino boards
+* Raspberry Pi
+* [Home Assistant](https://www.home-assistant.io/)
+    * [Nabu Casa](https://www.nabucasa.com/) - Home Assistant Cloud
+* [Android](https://www.android.com/)
+* [Flutter](https://flutter.dev/) - used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase
 * MQTT
     * [Eclipse Mosquitto](https://mosquitto.org/) - An open source MQTT broker
 * CoAP
     * [libcoap](https://libcoap.net/) - C-Implementation of CoAP
     * [Californium](https://www.eclipse.org/californium/) - CoAP in Java
-
-* Arduino
-    * [MegunoLink](https://www.megunolink.com/introduction/arduino-user-interface/) - Build interfaces for Arduino Sketches
-    * [Johnny-Five](http://johnny-five.io/) - JavaScript Robotics & IoT Platform for Arduino boards
-
-* [Home Assistant](https://www.home-assistant.io/)
-    * [Nabu Casa](https://www.nabucasa.com/) - Home Assistant Cloud
 
 ----
 
