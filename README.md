@@ -7,9 +7,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Index
 
 * [Publications](#publications)
-    * [Books](#books)
-    * [Journals](#journals)
     * [Conferences](#conferences-and-workshops)
+    * [Journals](#journals)
+    * [Books](#books)
 * [Technologies](#technologies)
 * [Hardware](#hardware)
 * [Software](#software)
@@ -25,17 +25,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   <img src="http://....png">
 </p>
 <br/-->
-
-### Books
-
-* [Tsiatsis 2018](https://www.amazon.com/Internet-Things-Technologies-Applications-Intelligence/dp/0128144351) - Vlasios Tsiatsis, Stamatis Karnouskos, Jan Holler, David Boyle, Catherine Mulligan, "Internet of Things: Technologies and Applications for a New Age of Intelligence", 2nd Edition
-
-### Journals
-
-*When available, we present the journal [Scimago ranking](https://www.scimagojr.com/) - Q1, Q2, Q3, Q4 (quartiles)*
-
-* [IEEE Internet of Things Journal](https://ieee-iotj.org/)
-* [ACM Transactions on Sensor Networks](https://dl.acm.org/journal/tosn)
 
 ### Conferences and Workshops
 
@@ -71,6 +60,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [UBICOMM - International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies](https://www.iaria.org/conferences/UBICOMM.html) - CORE C
     * [2022 - Valencia, ES](https://www.iaria.org/conferences2022/UBICOMM22.html)
     * [2021 - Barcelona, ES](https://www.iaria.org/conferences2021/UBICOMM21.html)
+
+### Journals
+
+*When available, we present the journal [Scimago ranking](https://www.scimagojr.com/) - Q1, Q2, Q3, Q4 (quartiles)*
+
+* [IEEE Internet of Things Journal](https://ieee-iotj.org/)
+* [ACM Transactions on Sensor Networks](https://dl.acm.org/journal/tosn)
+
+### Books
+
+* [Tsiatsis 2018](https://www.amazon.com/Internet-Things-Technologies-Applications-Intelligence/dp/0128144351) - Vlasios Tsiatsis, Stamatis Karnouskos, Jan Holler, David Boyle, Catherine Mulligan, "Internet of Things: Technologies and Applications for a New Age of Intelligence", 2nd Edition
 
 ## Technologies
 
