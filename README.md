@@ -7,11 +7,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ## Index
 
 * [Publications](#publications)
-    * [Conferences](#conferences-and-workshops)
+    * [Conferences and Workshops](#conferences-and-workshops)
     * [Journals](#journals)
     * [Books](#books)
-* [Technologies](#technologies)
 * [Hardware](#hardware)
+* [Communication Technologies](#communication-technologies)
 * [Software](#software)
 * [Contact Info](#contact-info)
 * [License](#license)
@@ -73,18 +73,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Tsiatsis 2018](https://www.amazon.com/Internet-Things-Technologies-Applications-Intelligence/dp/0128144351) - Vlasios Tsiatsis, Stamatis Karnouskos, Jan Holler, David Boyle, Catherine Mulligan, "Internet of Things: Technologies and Applications for a New Age of Intelligence", 2nd Edition
 
-## Technologies
-
-* Wi-Fi
-* Bluetooth
-* ZigBee
-* Cellular
-* LoRA
-* Amazon Sidewalk
-
 ## Hardware
 
-*Hardware for the development of Ambient Intelligence solutions.*
+*Hardware for the development of Ambient Intelligence solutions. In alphabetical order.*
 
 * [Arduino](https://www.arduino.cc/)
 * [ESP32](https://www.espressif.com/en/products/socs/esp32)
@@ -93,9 +84,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Raspberry Pi](https://www.raspberrypi.org/)
     * [Grove Base Hat for Raspberry Pi](https://wiki.seeedstudio.com/Grove_Base_Hat_for_Raspberry_Pi/) - provide Digital/Analog/I2C/PWM/UART port
 
+## Communication Technologies
+
+*In alphabetical order.*
+
+* [Amazon Sidewalk](https://www.amazon.com/Amazon-Sidewalk/b?ie=UTF8&node=21328123011)
+* [Bluetooth](https://www.bluetooth.com/specifications/)
+* Cellular
+    * [GSM](https://www.gsma.com/)
+    * [CDMA](https://www.itu.int/osg/spu/ni/3G/technology/)
+* [LoRA](https://lora-alliance.org/)
+* [matter](https://csa-iot.org/all-solutions/matter/)
+* [Wi-Fi](https://www.wi-fi.org/)
+* [ZigBee](https://csa-iot.org/all-solutions/zigbee/)
+
 ## Software
 
-*Software for the development of Ambient Intelligence solutions.*
+*Software for the development of Ambient Intelligence solutions. In alphabetical order.*
 
 <!--br/>
 <p align="center">
