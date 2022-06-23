@@ -52,7 +52,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [SenSys - ACM Conference on Embedded Networked Sensor Systems](https://sensys.acm.org/) - CORE A*
     * [2021 - Coimbra, PT](https://sensys.acm.org/2021/)
 * [PerCom - IEEE International Conference on Pervasive Computing and Communications](https://www.percom.org/) - CORE A*
-    * [2022 - Pisa, IT](https://www.percom.org/)
+    * [2023 - Atlanta, GA, USA](https://percom.org/)
+    * [2022 - Pisa, IT](https://percom.org/PerCom2022/)
 * [MobiCom - ACM International Conference On Mobile Computing And Networking](https://www.sigmobile.org/mobicom/) - CORE A*
     * [2022 - Sydney, AU](https://www.sigmobile.org/mobicom/2022/)
 * [Mobiquitous - EAI International Conference on Mobile and Ubiquitous Systems: Networks and Services](https://mobiquitous.eai-conferences.org/) - CORE B
