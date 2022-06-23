@@ -39,6 +39,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [UbiComp - ACM International Joint Conference on Pervasive and Ubiquitous Computing)](https://ubicomp.org/) - CORE journal published
     * [2021 - Virtual, Global](https://ubicomp.org/ubicomp2021/)
 * [SenSys - ACM Conference on Embedded Networked Sensor Systems](https://sensys.acm.org/) - CORE A*
+    * [2022 - Boston, MA, USA](https://sensys.acm.org/2022/)
     * [2021 - Coimbra, PT](https://sensys.acm.org/2021/)
 * [PerCom - IEEE International Conference on Pervasive Computing and Communications](https://www.percom.org/) - CORE A*
     * [2023 - Atlanta, GA, USA](https://percom.org/)
