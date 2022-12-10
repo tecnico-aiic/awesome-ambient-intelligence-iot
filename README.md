@@ -123,8 +123,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * Java libraries
 * MQTT
     * [Eclipse Mosquitto](https://mosquitto.org/) - An open source MQTT broker
+* [Node-RED](https://developer.ibm.com/components/node-red/) - visual programming for wiring together hardware devices, APIs and online services
 * Python
-    * [Plotly](https://plotly.com/graphing-libraries/) - Plotly Open Source Graphing Libraries - Interactive charts and maps for Python, R, Julia, Javascript, ggplot2, F#, MATLAB, and Dash.
+    * [Plotly](https://plotly.com/graphing-libraries/) - Plotly Open Source Graphing Libraries - Interactive charts and maps for Python, R, Julia, Javascript, ggplot2, F#, MATLAB, and Dash
 * Raspberry Pi libraries
 
 ----
