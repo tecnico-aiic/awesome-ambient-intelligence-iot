@@ -120,6 +120,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Flutter](https://flutter.dev/) - used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase
 * [Home Assistant](https://www.home-assistant.io/)
     * [Nabu Casa](https://www.nabucasa.com/) - Home Assistant Cloud
+* [Hubitat](https://hubitat.com/) - non-internet dependent home automation hub with local processing
 * Java libraries
 * MQTT
     * [Eclipse Mosquitto](https://mosquitto.org/) - An open source MQTT broker
