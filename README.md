@@ -74,6 +74,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Books
 
+* [Mahmood 2019](https://link.springer.com/book/10.1007/978-3-030-04173-1) - Zaigham Mahmood (Editor), "Guide to Ambient Intelligence in the IoT Environment", ISBN: 978-3-030-04173-1
+Principles, Technologies and Applications
 * [Tsiatsis 2018](https://www.amazon.com/Internet-Things-Technologies-Applications-Intelligence/dp/0128144351) - Vlasios Tsiatsis, Stamatis Karnouskos, Jan Holler, David Boyle, Catherine Mulligan, "Internet of Things: Technologies and Applications for a New Age of Intelligence", 2nd Edition
 
 ## Hardware
