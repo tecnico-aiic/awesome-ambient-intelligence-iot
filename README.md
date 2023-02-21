@@ -30,17 +30,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 *When available, we present the conference [CORE ranking](http://portal.core.edu.au/conf-ranks/) - CORE A\*, A, B, C*
 
-* [IFIP IOT - IFIP INTERNATIONAL INTERNET OF THINGS (IOT) CONFERENCE](http://ifip-iotconference.org/)
-    * [2022 - Amsterdam, NL](http://www.ifip-iotconference.org/archive-2022/index.html)
-* [IoT - International Conference on the Internet of Things](https://iot-conference.org/)
-    * [2022 - Delft, NL](https://iot-conference.org/iot2022/)
-* [WF-IoT - IEEE World Forum on the Internet of Things](https://ieeexplore.ieee.org/xpl/conhome/1803621/all-proceedings)
-    * [2022 - Yokohama, JP](https://wfiot2022.iot.ieee.org/)
 * [UbiComp - ACM International Joint Conference on Pervasive and Ubiquitous Computing)](https://ubicomp.org/) - CORE journal published
     * [2021 - Virtual, Global](https://ubicomp.org/ubicomp2021/)
-* [IntelliSys - Intelligent Systems Conference](https://saiconference.com/IntelliSys)
-    * [2022 - Amsterdam, The Netherlands](https://saiconference.com/Conferences/IntelliSys2022)
-    * [2023 - Amsterdam, The Netherlands](https://saiconference.com/IntelliSys2023/CallforPapers)
 * [SenSys - ACM Conference on Embedded Networked Sensor Systems](https://sensys.acm.org/) - CORE A*
     * [2022 - Boston, MA, USA](https://sensys.acm.org/2022/)
     * [2021 - Coimbra, PT](https://sensys.acm.org/2021/)
@@ -64,13 +55,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [UBICOMM - International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies](https://www.iaria.org/conferences/UBICOMM.html) - CORE C
     * [2022 - Valencia, ES](https://www.iaria.org/conferences2022/UBICOMM22.html)
     * [2021 - Barcelona, ES](https://www.iaria.org/conferences2021/UBICOMM21.html)
+* [IoT - International Conference on the Internet of Things](https://iot-conference.org/)
+    * [2022 - Delft, NL](https://iot-conference.org/iot2022/)
+* [IFIP IOT - IFIP International Internet of Things (IOT) Conference](http://ifip-iotconference.org/)
+    * [2022 - Amsterdam, NL](http://www.ifip-iotconference.org/archive-2022/index.html)
+* [WF-IoT - IEEE World Forum on the Internet of Things](https://ieeexplore.ieee.org/xpl/conhome/1803621/all-proceedings)
+    * [2022 - Yokohama, JP](https://wfiot2022.iot.ieee.org/)
+* [IntelliSys - Intelligent Systems Conference](https://saiconference.com/IntelliSys)
+    * [2022 - Amsterdam, The Netherlands](https://saiconference.com/Conferences/IntelliSys2022)
+    * [2023 - Amsterdam, The Netherlands](https://saiconference.com/IntelliSys2023/CallforPapers)
 
 ### Journals
 
 *When available, we present the journal [Scimago ranking](https://www.scimagojr.com/) - Q1, Q2, Q3, Q4 (quartiles)*
 
-* [IEEE Internet of Things Journal](https://ieee-iotj.org/)
-* [ACM Transactions on Sensor Networks](https://dl.acm.org/journal/tosn)
+* [IEEE Internet of Things Journal](https://ieee-iotj.org/), ISSN 23274662 - Scimago Q1
+* [ACM Transactions on Sensor Networks](https://dl.acm.org/journal/tosn), ISSN 15504859 - Scimago Q1
 
 ### Books
 
