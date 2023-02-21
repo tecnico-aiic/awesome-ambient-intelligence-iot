@@ -38,7 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [2022 - Yokohama, JP](https://wfiot2022.iot.ieee.org/)
 * [UbiComp - ACM International Joint Conference on Pervasive and Ubiquitous Computing)](https://ubicomp.org/) - CORE journal published
     * [2021 - Virtual, Global](https://ubicomp.org/ubicomp2021/)
-* [IntelliSys - Intelligent Systems Conference]
+* [IntelliSys - Intelligent Systems Conference](https://saiconference.com/IntelliSys)
     * [2022 - Amsterdam, The Netherlands](https://saiconference.com/Conferences/IntelliSys2022)
     * [2023 - Amsterdam, The Netherlands](https://saiconference.com/IntelliSys2023/CallforPapers)
 * [SenSys - ACM Conference on Embedded Networked Sensor Systems](https://sensys.acm.org/) - CORE A*
@@ -140,4 +140,4 @@ Feel free to [contact us](mailto:meic-ami@disciplinas.tecnico.ulisboa.pt) to dis
 
 ## License
 
-Copyright 2022 AmI faculty (Miguel L. Pardal, Alberto Cunha)
+Copyright 2022-23 AmI faculty (Miguel L. Pardal, Alberto Cunha)
