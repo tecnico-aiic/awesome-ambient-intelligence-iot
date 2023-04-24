@@ -83,7 +83,7 @@ Principles, Technologies and Applications
 *Hardware for the development of Ambient Intelligence solutions. In alphabetical order.*
 
 * [Arduino](https://www.arduino.cc/)
-* [ESP32](https://www.espressif.com/en/products/socs/esp32)
+* [ESP32](http://esp32.net/)
     * [M5Stack](https://m5stack.com/)
 * [ESP8266](https://www.espressif.com/en/products/socs/esp8266)
 * [Raspberry Pi](https://www.raspberrypi.org/)
