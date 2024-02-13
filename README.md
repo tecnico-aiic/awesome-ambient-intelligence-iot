@@ -30,39 +30,58 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 *When available, we present the conference [CORE ranking](http://portal.core.edu.au/conf-ranks/) - CORE A\*, A, B, C*
 
-* [UbiComp - ACM International Joint Conference on Pervasive and Ubiquitous Computing)](https://ubicomp.org/) - CORE journal published
-    * [2021 - Virtual, Global](https://ubicomp.org/ubicomp2021/)
-* [SenSys - ACM Conference on Embedded Networked Sensor Systems](https://sensys.acm.org/) - CORE A*
+* [SenSys - ACM Conference on Embedded Networked Sensor Systems](https://sensys.acm.org/) - [CORE A*](http://portal.core.edu.au/conf-ranks/15/)
+    * [2023 - Istanbul, TR](https://sensys.acm.org/2023/)
     * [2022 - Boston, MA, USA](https://sensys.acm.org/2022/)
     * [2021 - Coimbra, PT](https://sensys.acm.org/2021/)
-* [PerCom - IEEE International Conference on Pervasive Computing and Communications](https://www.percom.org/) - CORE A*
-    * [2023 - Atlanta, GA, USA](https://percom.org/)
+* [PerCom - IEEE International Conference on Pervasive Computing and Communications](https://www.percom.org/) - [CORE A*](http://portal.core.edu.au/conf-ranks/669/)
+    * [2023 - Biarritz, FR](https://percom.org/)
+    * [2023 - Atlanta, GA, USA](https://percom.org/2023/)
     * [2022 - Pisa, IT](https://percom.org/PerCom2022/)
-* [MobiCom - ACM International Conference On Mobile Computing And Networking](https://www.sigmobile.org/mobicom/) - CORE A*
+* [MobiCom - ACM International Conference On Mobile Computing And Networking](https://www.sigmobile.org/mobicom/) - [CORE A*](http://portal.core.edu.au/conf-ranks/27/)
+    * [2023 - Madrid, ES](https://www.sigmobile.org/mobicom/2023/)
     * [2022 - Sydney, AU](https://www.sigmobile.org/mobicom/2022/)
-* [Mobiquitous - EAI International Conference on Mobile and Ubiquitous Systems: Networks and Services](https://mobiquitous.eai-conferences.org/) - CORE B
-    * [2021 - Beppu, JP](https://mobiquitous.eai-conferences.org/2021/)
-* [UIC - IEEE International Conference on Ubiquitous Intelligence and Computing](http://ieeesmartworld.org/uic/) - CORE B
-    * [2021  Atlanta, GA, USA](http://ieeesmartworld.org/uic/)
-* [MUM - International Conference on Mobile and Ubiquitous Media](https://www.mum-conf.org/) - CORE B
+* [MUM - International Conference on Mobile and Ubiquitous Media](https://www.mum-conf.org/) - [CORE B](http://portal.core.edu.au/conf-ranks/1615/)
+    * [2023 - Vienna, AT](https://www.mum-conf.org/2022/)
     * [2022 - Lisbon, PT](https://www.mum-conf.org/2022/)
     * [2021 - Leuven, BE](https://www.mum-conf.org/2021/)
-* [SMC - IEEE Conference on Systems, Man, and Cybernetics](https://www.ieeesmc.org/) - CORE B
+* [SMC - IEEE Conference on Systems, Man, and Cybernetics](https://www.ieeesmc.org/) - [CORE B](http://portal.core.edu.au/conf-ranks/611/)
+    * [2023 - Honolul, HI, USA](https://ieeesmc2023.org))
     * [2022 - Prague, CZ](https://ieeesmc2022.org/)
     * [2021 - Melbourne, AU](http://ieeesmc2021.org/)
-* [EUC - IEEE/IFIP International Conference on Embedded and Ubiquitous Computing](https://ieeexplore.ieee.org/xpl/conhome/1002596/all-proceedings) - CORE C
+* [Mobiquitous - EAI International Conference on Mobile and Ubiquitous Systems: Networks and Services](https://mobiquitous.eai-conferences.org/) - [CORE C](http://portal.core.edu.au/conf-ranks/1131/)
+    * [2023 - Melbourne, Australia](https://mobiquitous.eai-conferences.org/2023/)
+    * [2022 - Pittsburgh, PA, USA](https://mobiquitous.eai-conferences.org/2022/)
+    * [2021 - Beppu, JP](https://mobiquitous.eai-conferences.org/2021/)
+* [UIC - IEEE International Conference on Ubiquitous Intelligence and Computing](http://ieeesmartworld.org/uic/) - [CORE C](http://portal.core.edu.au/conf-ranks/1254/)
+    * [2023 - Portsmouth, UK](https://ieee-smart-world-congress.org/program/uic2023/overview)
+    * [2022 - Haikou, CN](http://www.ieee-smart-world.org/2022/uic/)
+    * [2021 - Atlanta, GA, USA](http://ieeesmartworld.org/uic/)
+* [EUC - IEEE/IFIP International Conference on Embedded and Ubiquitous Computing](https://ieeexplore.ieee.org/xpl/conhome/1002596/all-proceedings) - [CORE C](http://portal.core.edu.au/conf-ranks/788/)
+    * [2023 - Exeter, UK](https://hpcn.exeter.ac.uk/euc2023/)
+    * [2022 - Wuhan, CN](https://www.aconf.org/conf_186051.html)   
     * [2021 - Shenyang, CN](https://ieeexplore.ieee.org/xpl/conhome/9741746/proceeding)
-* [UBICOMM - International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies](https://www.iaria.org/conferences/UBICOMM.html) - CORE C
+* [UBICOMM - International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies](https://www.iaria.org/conferences/UBICOMM.html) - [CORE C](http://portal.core.edu.au/conf-ranks/1134/)
+    * [2023 - Porto, PT](https://www.iaria.org/conferences2023/UBICOMM23.html)
     * [2022 - Valencia, ES](https://www.iaria.org/conferences2022/UBICOMM22.html)
     * [2021 - Barcelona, ES](https://www.iaria.org/conferences2021/UBICOMM21.html)
-* [IoT - International Conference on the Internet of Things](https://iot-conference.org/)
+* [UbiComp - ACM International Joint Conference on Pervasive and Ubiquitous Computing)](https://ubicomp.org/) - [CORE journal published](http://portal.core.edu.au/conf-ranks/1825/)
+    * [2023 - Cancún, MX](https://www.ubicomp.org/ubicomp-iswc-2023/)
+    * [2022 - Atlanta, GA, USA and Cambridge, UK](https://ubicomp.org/ubicomp2022/)
+    * [2021 - Virtual, Global](https://ubicomp.org/ubicomp2021/)
+* [IoT - International Conference on the Internet of Things](https://iot-conference.org/) - *not ranked by CORE*
+    * [2024 - Oulu, FI](https://iot-conference.org/iot2024/)
+    * [2023 - Nagoya, JP](https://iot-conference.org/iot2023/)
     * [2022 - Delft, NL](https://iot-conference.org/iot2022/)
-* [IFIP IOT - IFIP International Internet of Things (IOT) Conference](http://ifip-iotconference.org/)
+* [IFIP IOT - IFIP International Internet of Things (IOT) Conference](http://ifip-iotconference.org/) - *not ranked by CORE*
+    * [2023 - Dallas-Forth Worth Metroplex, TX, USA](https://ifip-iotconference.org/)
     * [2022 - Amsterdam, NL](http://www.ifip-iotconference.org/archive-2022/index.html)
-* [WF-IoT - IEEE World Forum on the Internet of Things](https://ieeexplore.ieee.org/xpl/conhome/1803621/all-proceedings)
+* [WF-IoT - IEEE World Forum on the Internet of Things](https://ieeexplore.ieee.org/xpl/conhome/1803621/all-proceedings) - *not ranked by CORE*
+    * [2023 - Aveiro, PT](https://wfiot2023.iot.ieee.org/)
     * [2022 - Yokohama, JP](https://wfiot2022.iot.ieee.org/)
-* [IntelliSys - Intelligent Systems Conference](https://saiconference.com/IntelliSys)
-    * [2022 - Amsterdam, The Netherlands](https://saiconference.com/Conferences/IntelliSys2022)
+* [IntelliSys - Intelligent Systems Conference](https://saiconference.com/IntelliSys) - *not a scientific conference*
+    * [2023 - Amsterdam, NL](https://saiconference.com/Conferences/IntelliSys2023)
+    * [2022 - Amsterdam, NL](https://saiconference.com/Conferences/IntelliSys2022)
     * [2023 - Amsterdam, The Netherlands](https://saiconference.com/IntelliSys2023/CallforPapers)
 
 ### Journals
@@ -74,6 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Books
 
+* [Guinard 2016](https://www.manning.com/books/building-the-web-of-things) - Dominique D. Guinard and Vlad M. Trifa, "Building the Web of Things", ISBN: 9781617292682
 * [Mahmood 2019](https://link.springer.com/book/10.1007/978-3-030-04173-1) - Zaigham Mahmood (Editor), "Guide to Ambient Intelligence in the IoT Environment", ISBN: 978-3-030-04173-1
 Principles, Technologies and Applications
 * [Tsiatsis 2018](https://www.amazon.com/Internet-Things-Technologies-Applications-Intelligence/dp/0128144351) - Vlasios Tsiatsis, Stamatis Karnouskos, Jan Holler, David Boyle, Catherine Mulligan, "Internet of Things: Technologies and Applications for a New Age of Intelligence", 2nd Edition
