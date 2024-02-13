@@ -93,10 +93,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Books
 
-* [Guinard 2016](https://www.manning.com/books/building-the-web-of-things) - Dominique D. Guinard and Vlad M. Trifa, "Building the Web of Things", ISBN: 9781617292682
+*Books about Ambient Intelligence. From most recent to older titles.*
+
+* [Kumar 2023](https://www.amazon.es/dp/1484288963) - A. Kumar, "Connecting the Internet of Things: IoT Connectivity Standards and Solutions", ISBN: 978-1484288962
+* [Smeenk 2023]() - H.G. Smeenk, "Internet of Things for Smart Buildings: Leverage IoT for smarter insights for buildings in the new and built environments", ISBN: 978-1804619865
+* [Dian 2022](https://www.amazon.es/dp/111984729X) -  F. John Dian, "Fundamentals of Internet of Things: For Students and Professionals", ISBN: 978-1119847298
 * [Mahmood 2019](https://link.springer.com/book/10.1007/978-3-030-04173-1) - Zaigham Mahmood (Editor), "Guide to Ambient Intelligence in the IoT Environment", ISBN: 978-3-030-04173-1
 Principles, Technologies and Applications
 * [Tsiatsis 2018](https://www.amazon.com/Internet-Things-Technologies-Applications-Intelligence/dp/0128144351) - Vlasios Tsiatsis, Stamatis Karnouskos, Jan Holler, David Boyle, Catherine Mulligan, "Internet of Things: Technologies and Applications for a New Age of Intelligence", 2nd Edition
+* [Guinard 2016](https://www.manning.com/books/building-the-web-of-things) - Dominique D. Guinard and Vlad M. Trifa, "Building the Web of Things", ISBN: 978-1617292682
 
 ## Hardware
 
