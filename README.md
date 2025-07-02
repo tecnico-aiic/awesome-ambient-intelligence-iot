@@ -112,8 +112,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 *When available, we present the journal [Scimago ranking](https://www.scimagojr.com/) - Q1, Q2, Q3, Q4 (quartiles)*
 
-* [IEEE Internet of Things Journal](https://ieee-iotj.org/), ISSN 23274662 - Scimago Q1
-* [ACM Transactions on Sensor Networks](https://dl.acm.org/journal/tosn), ISSN 15504859 - Scimago Q1
+* [IEEE Internet of Things Journal](https://ieee-iotj.org/), ISSN 23274662 - [Scimago Q1](https://www.scimagojr.com/journalsearch.php?q=21100338350&tip=sid&clean=0)
+* [ACM Transactions on Sensor Networks](https://dl.acm.org/journal/tosn), ISSN 15504859 - [Scimago Q1](https://www.scimagojr.com/journalsearch.php?q=4700152843&tip=sid&clean=0)
+* [IEEE Sensors Journal](https://ieee-sensors.org/sensors-journal/), ISSN 1530437X, [Scimago Q1](https://www.scimagojr.com/journalsearch.php?q=15047&tip=sid&clean=0)
+* [IEEE Journal of Radio Frequency Identification](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433271), ISSN 24697281 - [Scimago Q1](https://www.scimagojr.com/journalsearch.php?q=21101060132&tip=sid&clean=0)
+* [Journal of Ambient Intelligence and Humanized Computing](https://link.springer.com/journal/12652), ISSN 18685137, 18685145 - [Scimago Q1](https://www.scimagojr.com/journalsearch.php?q=19400158593&tip=sid&clean=0)
+* [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856), ISSN 15455955, [Scimago Q1](https://www.scimagojr.com/journalsearch.php?q=17340&tip=sid&clean=0)
+* [IEEE Transactions on Intelligent Transportation Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), ISSN 15249050, 15580016, [Scimago Q1](https://www.scimagojr.com/journalsearch.php?q=18378&tip=sid&clean=0)
 
 ### Books
 
