@@ -36,6 +36,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [2023 - Istanbul, TR](https://sensys.acm.org/2023/)
     * [2022 - Boston, MA, USA](https://sensys.acm.org/2022/)
     * [2021 - Coimbra, PT](https://sensys.acm.org/2021/)
+* [IPSN - Information Processing in Sensor Networks](https://ipsn.acm.org/) - [CORE A*](https://portal.core.edu.au/conf-ranks/823/)
+   * 2025 - merged with SenSys
+   * [2024 - Hong Kong, CN](https://ipsn.acm.org/2024/)
+   * [2023 - San Antonio, TX, USA](https://ipsn.acm.org/2023/)
 * [PerCom - IEEE International Conference on Pervasive Computing and Communications](https://www.percom.org/) - [CORE A*](http://portal.core.edu.au/conf-ranks/669/)
     * [2026 - Pisa, IT](https://percom.org)
     * [2025 - Washington DC, USA](https://percom.org/2025/)
