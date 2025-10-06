@@ -119,6 +119,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [2024 - Ottawa, CA](https://wfiot2024.iot.ieee.org/)
     * [2023 - Aveiro, PT](https://wfiot2023.iot.ieee.org/)
     * [2022 - Yokohama, JP](https://wfiot2022.iot.ieee.org/)
+* [IDAACS - IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications](https://idaacs.net/) - *not ranked by CORE*
+    * [2025 - Gliwice, PL](https://idaacs.net/2025)
 * [IntelliSys - Intelligent Systems Conference](https://saiconference.com/IntelliSys) - *not a scientific conference*
     * [2025 - Amsterdam, NL](https://saiconference.com/IntelliSys)
     * [2024 - Amsterdam, NL](https://saiconference.com/Conferences/IntelliSys2024)
