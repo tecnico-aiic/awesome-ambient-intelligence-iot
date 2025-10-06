@@ -111,8 +111,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [2024 - Malmo, SE](https://emergingtechnet.org/IOTSMS2024/)
     * [2023 - San Antonio, TX, USA](https://emergingtechnet.org/IOTSMS2023/)
 * [IFIP IOT - IFIP International Internet of Things (IOT) Conference](http://ifip-iotconference.org/) - *not ranked by CORE*
+    * [2025 - Hyderabad, IN](https://ifip-iotconference.org/)
     * [2024 - Nice - Sophia Antipolis, FR](https://ifip-iotconference.org/archive-2024/index.html)
-    * [2023 - Dallas-Forth Worth Metroplex, TX, USA](https://ifip-iotconference.org/)
+    * [2023 - Dallas-Forth Worth Metroplex, TX, USA](https://ifip-iotconference.org/archive-2023/index.html)
     * [2022 - Amsterdam, NL](http://www.ifip-iotconference.org/archive-2022/index.html)
 * [WF-IoT - IEEE World Forum on the Internet of Things](https://ieeexplore.ieee.org/xpl/conhome/1803621/all-proceedings) - *not ranked by CORE*
     * [2025 - Chengdu, CN](https://wfiot2025.iot.ieee.org/)
@@ -121,6 +122,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [2022 - Yokohama, JP](https://wfiot2022.iot.ieee.org/)
 * [IDAACS - IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications](https://idaacs.net/) - *not ranked by CORE*
     * [2025 - Gliwice, PL](https://idaacs.net/2025)
+* [BuildSys - ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation](https://buildsys.acm.org/) - *not ranked by CORE*
+    * [2026 - Banff, Alberta, CA](https://buildsys.acm.org/2026/)
+    * [2025 - Golden, CO, USA](https://buildsys.acm.org/2025/)
 * [IntelliSys - Intelligent Systems Conference](https://saiconference.com/IntelliSys) - *not a scientific conference*
     * [2025 - Amsterdam, NL](https://saiconference.com/IntelliSys)
     * [2024 - Amsterdam, NL](https://saiconference.com/Conferences/IntelliSys2024)
