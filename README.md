@@ -108,6 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
     * [2023 - Nagoya, JP](https://iot-conference.org/iot2023/)
     * [2022 - Delft, NL](https://iot-conference.org/iot2022/)
 * IoTSMS - International Conference on Internet of Things: Systems, Management and Security - *not ranked by CORE*
+    * [2025 - Lyon, FR](https://www.gcet-conference.com/IOTSMS2025/)
     * [2024 - Malmo, SE](https://emergingtechnet.org/IOTSMS2024/)
     * [2023 - San Antonio, TX, USA](https://emergingtechnet.org/IOTSMS2023/)
 * [IFIP IOT - IFIP International Internet of Things (IOT) Conference](http://ifip-iotconference.org/) - *not ranked by CORE*
